@@ -1,4 +1,3 @@
-###What is Angular?  
 
   * Angular is a TypeScript based, open source, frontend web application development framework.  
   * Angular uses TypeScript as programming language which is a superset of JavaScript.   
