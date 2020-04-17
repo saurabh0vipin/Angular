@@ -6,4 +6,8 @@
  * Angular is mainly devided in 2 type-   
    * **Angular JS(version 1)**: It was based on JavaScript, used to build single page web applications  
    * **Angular(version 2,3,4,..6)**: These are based on TypeScript  
+
+**starting server** command  
+	* ng serve --open  
+
  
